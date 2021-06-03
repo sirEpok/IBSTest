@@ -1,6 +1,6 @@
 package ibstest;
 
-abstract class Employee {
+public abstract class Employee {
     private int workingDay;
     private String fullName;
     
